@@ -1,6 +1,6 @@
 {
   "name": "react-native-aes-gcm-crypto",
-  "version": "0.2.2",
+  "version": "0.2.2-brainloop-1.0.0",
   "description": "AES-GCM encryption/decryption for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -37,13 +37,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/craftzdog/react-native-aes-gcm-crypto",
+  "repository": "https://github.com/dil-hschaefer/react-native-aes-gcm-crypto",
   "author": "Takuya Matsuyama <hi@craftz.dog> (https://github.com/craftzdog)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/craftzdog/react-native-aes-gcm-crypto/issues"
+    "url": "https://github.com/dil-hschaefer/react-native-aes-gcm-crypto/issues"
   },
-  "homepage": "https://github.com/craftzdog/react-native-aes-gcm-crypto#readme",
+  "homepage": "https://github.com/dil-hschaefer/react-native-aes-gcm-crypto#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
