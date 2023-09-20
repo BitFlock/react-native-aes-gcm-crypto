@@ -37,13 +37,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/dil-hschaefer/react-native-aes-gcm-crypto",
+  "repository": "https://github.com/BitFlock/react-native-aes-gcm-crypto",
   "author": "Takuya Matsuyama <hi@craftz.dog> (https://github.com/craftzdog)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dil-hschaefer/react-native-aes-gcm-crypto/issues"
+    "url": "https://github.com/BitFlock/react-native-aes-gcm-crypto/issues"
   },
-  "homepage": "https://github.com/dil-hschaefer/react-native-aes-gcm-crypto#readme",
+  "homepage": "https://github.com/BitFlock/react-native-aes-gcm-crypto#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
